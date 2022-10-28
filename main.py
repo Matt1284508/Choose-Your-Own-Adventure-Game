@@ -97,6 +97,7 @@ if level_one_choice == '2':
 |_|,'_________|_|
                   ''')
             print('Congratulations, you escaped!')
+# Failure Handling            
         elif level_three_lower == 'right':
             print('''
                    (    )
